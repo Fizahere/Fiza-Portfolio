@@ -12,14 +12,14 @@ export const Projects = () => {
             link: "https://chakra-ui-navy.vercel.app/"
         },
         {
-            title: "Blog React Portal",
-            description: "I spearheaded the development of a dynamic blog portal and website using React.js, React Query, and Ant Design.",
+            title: "Welcome to AuraVogue: Your Ultimate Aesthetic Heaven!",
+            description: "AuraVogue is an ecommerce website built on PHP and Bootstrap. It uses MySQL as a database. It has all functionalities of online shopping and is really SEO friendly.",
             imgUrl: "./assets/images/aura.PNG",
             link: "https://auravogue.moreo.pk/website/"
         },
         {
-            title: "Welcome to AuraVogue: Your Ultimate Aesthetic Heaven!",
-            description: "AuraVogue is an ecommerce website built on PHP and Bootstrap. It uses MySQL as a database. It has all functionalities of online shopping and is really SEO friendly.",
+            title: "Blog React Portal",
+            description: "I spearheaded the development of a dynamic blog portal and website using React.js, React Query, and Ant Design.",
             imgUrl: "./assets/images/blog.PNG",
             link: "https://blog-portal-omega.vercel.app/"
         },
