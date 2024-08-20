@@ -11,7 +11,7 @@ function Main() {
           actively seeking an opportunity to contribute to a dynamic team and gain practical experience in front-end
           development. I am well-prepared to tackle new challenges and grow as a professional in front-end development.
         </p>
-        <a href="https://drive.google.com/file/d/1K4vt2w4Bi2hdt-SNWC6D49sITo--Z9uO/view" download>
+        <a href="./assets/Fiza Portfolio.pdf" download>
           <button className='download-cv'>Download CV</button>
         </a>
       </div>
