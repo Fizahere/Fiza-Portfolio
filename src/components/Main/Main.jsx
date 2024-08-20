@@ -5,7 +5,7 @@ function Main() {
   return (
     <section className='main-container' id="home">
       <div className='main-content'>
-        <h2 className='animated-text'>Hi! I'm Fiza Batool</h2>
+        <h2 className='animated-text'>Hi! I'm Fiza</h2>
         <p>
           Passionate and dedicated aspiring Front-end Developer with a strong foundation in front-end technologies, I am
           actively seeking an opportunity to contribute to a dynamic team and gain practical experience in front-end
