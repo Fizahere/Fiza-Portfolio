@@ -155,12 +155,14 @@
         margin: 2rem 0;
     }
     .main-container h2 {
-        margin-top: 3rem;
+        margin-top: 0rem;
+        margin-bottom: 4rem;
     }
     .main-content h2,
     .main-content p {
         width: auto;
         text-align: center;
+        margin-bottom: 15px;
     }
     .main-container::after,
     .main-container::before {
@@ -181,6 +183,8 @@
     }
     .profession {
         font-size: 1.5rem;
+        margin-top: -300px;
+
     }
 }
 
@@ -203,10 +207,12 @@
     .download-cv {
         font-size: 1rem;
         padding: 0.3rem 0.5rem;
-        margin-left: 25px;
+        margin-left: 75px;
+        margin-top: 30px;
     }
     .profession {
         font-size: 1.2rem;
+        margin-top: -300px;
     }
 }
 
