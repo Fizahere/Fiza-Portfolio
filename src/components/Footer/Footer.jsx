@@ -4,7 +4,15 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-      &copy; 2024 Time to Program, Happy Coding Fiza!
+
+
+© Fiza 2024. All rights reserved.
+
+
+
+
+
+
     </div>
   );
 };
