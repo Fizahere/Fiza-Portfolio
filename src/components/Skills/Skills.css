@@ -1,0 +1,134 @@
+.skill {
+  padding: 0 0 50px 0;
+  position: relative;
+  
+}
+
+.skill-bx {
+  border-radius: 65px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: 100px;
+  
+}
+
+.skill-bx h4{
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  
+}
+
+.skill h5 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  text-align: center;
+  
+}
+
+.skill p {
+  color: #333;
+  font-size: 1.125rem;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin: 14px 0 75px 0;
+}
+
+.skill-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.skill-slider .item {
+  text-align: center;
+}
+
+.skill-slider .item img {
+  width: 35%;
+  margin: 0 auto 15px auto;
+}
+
+.skill-slider .item h5 {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+@media (max-width: 1025px) {
+  .skill-bx {
+      padding: 50px 40px;
+  }
+
+  .skill h2 {
+    font-size: 1.5rem;
+  }
+
+  .skill p {
+      font-size: 1rem;
+  }
+
+  .skill-slider .item img {
+      width: 40%;
+  }
+
+  .skill-slider .item h5 {
+      font-size: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .skill {
+      padding: 0 0 30px 0;
+  }
+
+  .skill-bx {
+      padding: 40px 30px;
+      margin-top: 70px;
+  }
+
+  .skill h2 {
+      font-size: 1.75rem;
+  }
+
+  .skill p {
+      font-size: 0.9rem;
+      margin: 14px 0 50px 0;
+  }
+
+  .skill-slider {
+      width: 90%;
+  }
+
+  .skill-slider .item img {
+      width: 45%;
+  }
+
+  .skill-slider .item h5 {
+      font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 464px) {
+  .skill-bx {
+      padding: 30px 20px;
+      margin-top: 50px;
+  }
+
+  .skill h2 {
+      font-size: 1.5rem;
+  }
+
+  .skill p {
+      font-size: 0.8rem;
+      margin: 14px 0 30px 0;
+  }
+
+  .skill-slider .item img {
+      width: 50%;
+  }
+
+  .skill-slider .item h5 {
+      font-size: 0.8rem;
+  }
+}
