@@ -19,7 +19,7 @@ function Main() {
       <div className='main-img'>
         <div>
         {/* <img src="./assets/images/anime.jpg" alt="Profile" /> */}
-        <img src="./assets/images/fizaimage.jpeg" alt="Profile" />
+        <img src="./assets/images/IMG_9190.jpg" alt="Profile" />
         </div>
         <div>
           <h2 className='profession'>Front-End Developer</h2>
