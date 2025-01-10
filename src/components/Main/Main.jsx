@@ -1,6 +1,5 @@
 import React from 'react';
 import './Main.css';
-// import Resume from '../../../public/assets/Fiza-React-Developer.pdf'
 
 function Main() {
   return (
