@@ -1,7 +1,6 @@
 import React from 'react';
 import './Main.css';
 // import Resume from '../../../public/assets/Fiza-React-Developer.pdf'
-import Resume from '../../assets/Fiza-React-Developer.pdf'
 
 function Main() {
   return (
@@ -13,7 +12,7 @@ function Main() {
           actively seeking an opportunity to contribute to a dynamic team and gain practical experience in front-end
           development. I am well-prepared to tackle new challenges and grow as a professional in front-end development.
         </p>
-        <a href={Resume} download>
+        <a href='/assets/Fiza-React-Developer.pdf' download>
           <button className='download-cv'>Download CV</button>
         </a>
       </div>
