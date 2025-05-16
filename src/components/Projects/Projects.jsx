@@ -6,6 +6,7 @@ import FitnessTracker from '../../assets/images/project1.png'
 import PlantPalace from '../../assets/images/project2.png'
 import HomeStyler from '../../assets/images/project3.png'
 import Shop from '../../assets/images/project4.png'
+import MindMate from '../../assets/images/project5.png'
 
 export const Projects = () => {
   const projects = [
@@ -17,14 +18,14 @@ export const Projects = () => {
       link: "https://fitness-tracker-red-five.vercel.app",
     },
     {
-      title: "Shop.CO",
+      title: "Shop.CO- ReactJs",
       description:
         "A ReactJS e-commerce site with modern design, dynamic product management, and responsive layouts for seamless user experience.",
       imgUrl: Shop,
       link: "https://shop-co-red-two.vercel.app",
     },
     {
-      title: "Home Styler",
+      title: "Home Styler- ReactJs",
       description:
         "A ReactJS interior design platform featuring curated styles, design inspiration, and product exploration.",
       imgUrl: HomeStyler,
@@ -36,6 +37,13 @@ export const Projects = () => {
         "A ReactJS plant nursery site offering diverse plants, care tips, and a user-friendly shopping experience.",
       imgUrl: PlantPalace,
       link: "https://plant-palace-hazel.vercel.app",
+    },
+      {
+      title: "Mind Mate -Python",
+      description:
+        "Mind Mate is a Python-based mental health platform that provides users with personalized resources, self-help tools, and a supportive community to promote mental well-being.",
+      imgUrl: MindMate,
+      link: "https://mind-mate-landing.vercel.app",
     },
     {
       title: "TVVerse - ReactJs",
